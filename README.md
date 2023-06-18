@@ -34,12 +34,10 @@ vagrant@ubuntu-20:~/netology$ yc compute image list
 ## Задача 2
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.        
+![VJA1otNefXM](https://github.com/Kapotov/5.4.1/assets/123774335/78cb77c1-b2f0-4e1b-82bb-71c8e7fbf42d)
 
-**2.2.*** **(Необязательное задание)**      
-Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud).
-Используйте Terraform-код в директории ([src/terraform](https://github.com/netology-group/virt-homeworks/tree/virt-11/05-virt-04-docker-compose/src/terraform)).
+   
 
-Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
 
 ## Задача 3
 
