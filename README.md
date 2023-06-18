@@ -41,6 +41,7 @@ vagrant@ubuntu-20:~/netology$ yc compute image list
 
 ## Задача 3
 
+![grafana](https://github.com/Kapotov/5.4.1/assets/123774335/54fa856b-bdaa-47e9-a6c1-39fdc76de72c)
 
 
 
